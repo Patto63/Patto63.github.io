@@ -1,0 +1,50 @@
+#encabezado{
+   
+    height: 300px;
+    font-family:cursive ;
+    font-size: 50px;
+   padding-left: 15%;
+   padding-top: 5%;
+   color: aliceblue;
+   position: relative;
+
+   background-color: rgb(8, 8, 33);
+}
+
+#presentacion{
+    margin-left: 10px;
+    line-height: 10px;
+    border-style: outset;
+}
+
+#frontend{
+    margin-left: 10px;
+    line-height: 10px;
+    border-style: inset;
+}
+#backend{
+    margin-left: 10px;
+    line-height: 10px;
+    border-style: inset;
+}
+#devops{
+    height: 215px;
+    margin-left: 10px;
+    line-height: 10px;
+    border-style: inset;
+}
+
+#logros{
+    text-align: center;
+}
+#logo{
+
+    padding-right: 300px;
+}
+#info{
+    font-size: 20px;
+}
+a:link {
+    font-size: 20px;
+    text-decoration: none;
+  }
